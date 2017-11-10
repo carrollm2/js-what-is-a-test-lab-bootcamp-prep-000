@@ -8,7 +8,7 @@ var word = 'bird'
 var firstName = "Mike"
 
 function greeting(firstName){
-  return "Hello, ${firstName} .Bye Mike"
+  return "Hello, '${firstName}' .Bye Mike"
 
 }
 
