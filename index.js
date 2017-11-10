@@ -5,7 +5,7 @@ var message = `${name} is ${height} inches tall`
 
 var word = 'bird'
 
-var firstName = "Mike"
+
 
 function greeting(firstName){
   return '${firstName}'
