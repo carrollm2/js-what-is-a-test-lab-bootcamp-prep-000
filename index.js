@@ -8,11 +8,14 @@ var word = 'bird'
 
 
 function greeting(firstName){
-  return '${firstName}''
+  return '${firstName}'
 
 }
 
-console.log(greeting("Barbara"))
+var result = greeting("Barbara")
+console.log(result)
 
 
 module.exports = {name, height, message}
+
+
