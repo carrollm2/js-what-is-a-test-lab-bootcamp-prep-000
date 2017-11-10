@@ -12,7 +12,7 @@ function greeting(firstName){
 
 }
 
-console.log(greeting(firstName))
+console.log(greeting("Barbara"))
 
 
 module.exports = {name, height, message}
